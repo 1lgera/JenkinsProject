@@ -1,5 +1,5 @@
 from datetime import datetime
 
-print("Фамилия: Иванов")
-print("Имя: Петр")
+print("Фамилия: Логунов")
+print("Имя: Илья")
 print("Текущее время:", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
