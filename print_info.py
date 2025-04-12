@@ -1,3 +1,3 @@
 from datetime import datetime
 
-print(f"Logunov Ilya - Time: {datetime.now().strftime('%H:%M:%S %d-%m-%Y')}")
+print(f"Filipau Yuri - Time: {datetime.now().strftime('%H:%M:%S')}")
